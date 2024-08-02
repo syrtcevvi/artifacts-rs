@@ -1,0 +1,17 @@
+[package]
+name = "artifacts"
+authors = ["Сырцев Вадим Игоревич <syrtcevvi@gmail.com>"]
+version = "0.1.0"
+edition = "2021"
+description = "Rust bindings for the Artifacts API-Based MMORPG API"
+keywords = [
+    "artifacts-mmorpg",
+    "bindings",
+    "api",
+]
+rust-version = "1.80"
+license = "MIT"
+homepage = "https://github.com/syrtcevvi/artifacts-rs"
+repository = "https://github.com/syrtcevvi/artifacts-rs"
+
+[dependencies]
